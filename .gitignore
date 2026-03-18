@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+
+# dependencies
+node_modules/
+
+# environment variables
+.env
+
+# build output
+/build
+dist/
+
+# firebase
+.firebase/
+
+# editor / IDE
+.vscode/
+.idea/
+
+# lock files
+package-lock.json
+
+# vite config backups / temp
+vite.config.*s.*
