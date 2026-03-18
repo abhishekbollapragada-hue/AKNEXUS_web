@@ -18,8 +18,5 @@ dist/
 .vscode/
 .idea/
 
-# lock files
-package-lock.json
-
 # vite config backups / temp
 vite.config.*s.*
