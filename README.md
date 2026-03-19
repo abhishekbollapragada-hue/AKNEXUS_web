@@ -103,8 +103,6 @@ firebase deploy
 
 ## 📸 Screenshots
 
-(Add screenshots here for better presentation)
-
 ---
 
 ## 💡 Future Enhancements
